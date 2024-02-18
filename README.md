@@ -28,6 +28,7 @@
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
 ![Css3](https://img.shields.io/badge/Css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity)
 
 ### DevOps & Tools
 
