@@ -11,12 +11,9 @@
 ## 🔧 Technologies & Tools
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C%23)
 ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
-![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies && Frameworks
 
@@ -28,7 +25,6 @@
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
 ![Css3](https://img.shields.io/badge/Css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity)
 
 ### DevOps & Tools
 
@@ -41,7 +37,6 @@
 ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=Apple)
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)
 ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat-square&logo=postgresql)
-![Mongodb](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/Mysql-black?style=flat-square&logo=mysql)
 
 ## ⭐ My Projects
